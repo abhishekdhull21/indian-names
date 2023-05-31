@@ -1,0 +1,32 @@
+{
+  "name": "indian-names",
+  "version": "1.0.2",
+  "description": "Indian Names is a simple npm package that provides a collection of popular Indian names along with their meanings. It aims to assist developers in generating or accessing Indian names for various purposes, such as application development, data generation, or cultural research.",
+  "keywords": ["Indian names",
+  "Names",
+  "Indian culture",
+  "Indian heritage",
+  "Indian tradition",
+  "Indian baby names",
+  "Meaningful names",
+  "Naming conventions",
+  "Indian naming practices",
+  "Gender-specific names",
+  "Indian folklore",
+  "Ethnic names",
+  "Indian identity"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekdhull21/indian-names.git"
+  },
+  "author": "Abhishek Singh Dhull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekdhull21/indian-names/issues"
+  },
+  "homepage": "https://github.com/abhishekdhull21/indian-names#readme"
+}
